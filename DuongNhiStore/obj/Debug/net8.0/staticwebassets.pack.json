@@ -1,0 +1,685 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DuongNhiStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DuongNhiStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\css\\all.css",
+      "PackagePath": "staticwebassets\\contents\\css\\all.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\css\\baguetteBox.min.css",
+      "PackagePath": "staticwebassets\\contents\\css\\baguetteBox.min.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\css\\bootsnav.css",
+      "PackagePath": "staticwebassets\\contents\\css\\bootsnav.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\contents\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\contents\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\css\\carousel-ticker.css",
+      "PackagePath": "staticwebassets\\contents\\css\\carousel-ticker.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\css\\code_animate.css",
+      "PackagePath": "staticwebassets\\contents\\css\\code_animate.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\css\\custom.css",
+      "PackagePath": "staticwebassets\\contents\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\contents\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\contents\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\contents\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\css\\style.css",
+      "PackagePath": "staticwebassets\\contents\\css\\style.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\css\\superslides.css",
+      "PackagePath": "staticwebassets\\contents\\css\\superslides.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\29.png",
+      "PackagePath": "staticwebassets\\contents\\images\\29.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h1.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h1.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h10.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h10.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h11.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h11.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h12.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h12.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h13.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h13.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h14.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h14.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h15.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h15.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h16.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h16.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h17.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h17.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h18.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h18.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h19.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h19.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h2.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h2.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h20.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h20.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h21.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h21.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h22.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h22.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h23.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h23.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h24.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h24.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h25.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h25.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h26.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h26.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h27.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h27.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h28.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h28.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h29.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h29.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h3.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h3.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h30.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h30.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h31.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h31.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h32.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h32.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h33.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h33.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h34.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h34.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h35.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h35.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h36.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h36.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h37.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h37.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h38.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h38.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h39.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h39.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h4.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h4.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h40.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h40.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h41.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h41.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h42.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h42.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h43.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h43.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h44.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h44.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h45.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h45.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h46.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h46.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h47.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h47.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h48.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h48.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h49.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h49.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h5.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h5.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h50.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h50.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h51.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h51.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h52.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h52.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h53.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h53.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h54.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h54.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h6.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h6.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h7.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h7.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h8.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h8.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\h9.png",
+      "PackagePath": "staticwebassets\\contents\\images\\h9.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\payment-icon\\1.png",
+      "PackagePath": "staticwebassets\\contents\\images\\payment-icon\\1.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\payment-icon\\2.png",
+      "PackagePath": "staticwebassets\\contents\\images\\payment-icon\\2.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\payment-icon\\3.png",
+      "PackagePath": "staticwebassets\\contents\\images\\payment-icon\\3.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\payment-icon\\5.png",
+      "PackagePath": "staticwebassets\\contents\\images\\payment-icon\\5.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\images\\payment-icon\\7.png",
+      "PackagePath": "staticwebassets\\contents\\images\\payment-icon\\7.png"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\js\\baguetteBox.min.js",
+      "PackagePath": "staticwebassets\\contents\\js\\baguetteBox.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\js\\bootsnav.js",
+      "PackagePath": "staticwebassets\\contents\\js\\bootsnav.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\contents\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\contents\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\js\\contact-form-script.js",
+      "PackagePath": "staticwebassets\\contents\\js\\contact-form-script.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\js\\custom.js",
+      "PackagePath": "staticwebassets\\contents\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\js\\form-validator.min.js",
+      "PackagePath": "staticwebassets\\contents\\js\\form-validator.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\js\\images-loded.min.js",
+      "PackagePath": "staticwebassets\\contents\\js\\images-loded.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\js\\inewsticker.js",
+      "PackagePath": "staticwebassets\\contents\\js\\inewsticker.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\contents\\js\\isotope.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\contents\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\contents\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\js\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\contents\\js\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\js\\jquery.superslides.min.js",
+      "PackagePath": "staticwebassets\\contents\\js\\jquery.superslides.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\contents\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\contents\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\php\\form-process.php",
+      "PackagePath": "staticwebassets\\contents\\php\\form-process.php"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\contents\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\contents\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\contents\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\contents\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\contents\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\contents\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\contents\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\contents\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\contents\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\contents\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\contents\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\contents\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\contents\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\contents\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\contents\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\contents\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\HK2431\\Phát triển web\\App\\DuongNhiStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DuongNhiStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DuongNhiStore.props",
+      "PackagePath": "build\\DuongNhiStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DuongNhiStore.props",
+      "PackagePath": "buildMultiTargeting\\DuongNhiStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DuongNhiStore.props",
+      "PackagePath": "buildTransitive\\DuongNhiStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

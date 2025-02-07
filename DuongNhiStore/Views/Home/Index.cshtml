@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<DuongNhiStore.Models.Product>
+<link rel="stylesheet" href="~/contents/css/style.css" asp-append-version="true" />
+
+<!-- Start Shop Page  -->
+<div class="shop-box-inner">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-3 col-lg-3 col-sm-12 col-xs-12 sidebar-shop-left">
+                 <div class="product-categori">
+                     <div class="search-product">
+                         <form action="#">
+                             <input class="form-control" placeholder="Search here..." type="text">
+                             <button type="submit"> <i class="fa fa-search"></i> </button>
+                         </form>
+                     </div>
+
+                     @await Component.InvokeAsync("Category") @* gọi category từ Default *@
+                 </div>
+            </div>
+            <div class="col-xl-9 col-lg-9 col-sm-12 col-xs-12 shop-content-right">
+                <div class="right-product-box">
+                    <div class="product-item-filter row">
+                        @foreach (var pr in Model.OrderBy(x => Guid.NewGuid()))
+                        {
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
+                                <div class="products-single fix">
+                                    <div class="box-img-hover">
+                                        <div class="type-lb">
+                                            @if (pr.Discount > 0)
+                                            {
+                                                <p class="sale">
+                                                    Giảm @((pr.Discount * 100).ToString("0"))%
+                                                </p>
+                                            }
+                                            else
+                                            {
+                                                <p class="sale">New</p>
+                                            }
+                                        </div>
+                                        <img src="~/contents/images/@pr.Image" alt="@pr.Name" class="product-img">
+                                    </div>
+                                    <div class="why-text">
+                                        <a href="~/Product/Detail/@pr.Id">
+                                            <h4>@pr.Name</h4>
+                                            @if (pr.Discount > 0)
+                                            {
+                                                <h5 style="text-decoration: line-through; color: red;">
+                                                    @(pr.Price?.ToString("n0")) VNĐ
+                                                </h5>
+                                                <h5 style="color: green;">
+                                                    @(pr.DiscountedPrice.ToString("n0")) VNĐ
+                                                </h5>
+                                            }
+                                            else
+                                            {
+                                                <h5>@(pr.Price?.ToString("n0")) VNĐ</h5>
+                                            }
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Shop Page -->

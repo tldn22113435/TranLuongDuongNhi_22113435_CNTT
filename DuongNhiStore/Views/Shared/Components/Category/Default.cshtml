@@ -1,0 +1,10 @@
+﻿@model List<DuongNhiStore.Models.Category>
+<div class="filter-sidebar-left">
+    <div class="title-left">
+        <h3>Categories</h3>
+    </div>
+    @foreach (var c in Model)
+    {
+        <a href="~/Product/ListPro/@c.Id" class="list-group-item list-group-item-action"> @c.Name</a>
+    }
+</div>

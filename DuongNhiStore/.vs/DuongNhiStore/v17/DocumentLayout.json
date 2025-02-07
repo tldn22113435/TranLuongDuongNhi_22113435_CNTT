@@ -1,0 +1,645 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\controllers\\detailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:controllers\\detailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\components\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:components\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\views\\product\\listpro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:views\\product\\listpro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\views\\shared\\components\\category\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:views\\shared\\components\\category\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\appdata\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:appdata\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\areas\\identity\\data\\duongnhistorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:areas\\identity\\data\\duongnhistorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\areas\\admin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:areas\\admin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\views\\shared\\_cartpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:views\\shared\\_cartpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\views\\shared\\_layout - copy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:views\\shared\\_layout - copy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|c:\\hk2431\\ph\u00E1t tri\u1EC3n web\\app\\duongnhistore\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E3065DD1-BDF3-474D-A0AC-7B772C67E4CA}|DuongNhiStore.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 289,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwDgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:55:38.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:56:06.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Product\\Detail.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:51:23.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryViewComponent.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Components\\CategoryViewComponent.cs",
+              "RelativeDocumentMoniker": "Components\\CategoryViewComponent.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Components\\CategoryViewComponent.cs",
+              "RelativeToolTip": "Components\\CategoryViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAlwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:32:07.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Category\\Default.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Category\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T03:40:10.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailController.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Controllers\\DetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DetailController.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Controllers\\DetailController.cs",
+              "RelativeToolTip": "Controllers\\DetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:56:05.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Cart\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Cart.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Cart\\Cart.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Cart.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:51:06.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwE8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:56:09.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListPro.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Product\\ListPro.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\ListPro.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Product\\ListPro.cshtml",
+              "RelativeToolTip": "Views\\Product\\ListPro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:50:55.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:52:31.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:47:58.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T03:04:19.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:56:04.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "Models\\OrderProduct.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "Models\\OrderProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:21:58.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:52:17.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\AppData\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "AppData\\AppDBContext.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\AppData\\AppDBContext.cs",
+              "RelativeToolTip": "AppData\\AppDBContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:17:48.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:47:08.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:47:24.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T04:46:41.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DuongNhiStoreContext.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Areas\\Identity\\Data\\DuongNhiStoreContext.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\DuongNhiStoreContext.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Areas\\Identity\\Data\\DuongNhiStoreContext.cs",
+              "RelativeToolTip": "Areas\\Identity\\Data\\DuongNhiStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:46:44.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:52:22.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:27:00.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:52:20.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T04:25:22.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T04:25:44.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAALoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:47:04.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_CartPartial.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Shared\\_CartPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_CartPartial.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Shared\\_CartPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_CartPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:47:20.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:05:14.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:52:15.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Views\\User\\Register.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:48:01.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderConfirmation.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Cart\\OrderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\OrderConfirmation.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Cart\\OrderConfirmation.cshtml",
+              "RelativeToolTip": "Views\\Cart\\OrderConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:51:13.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:52:13.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:51:20.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:52:11.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:52:09.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_Layout - Copy.cshtml",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Shared\\_Layout - Copy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout - Copy.cshtml",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Shared\\_Layout - Copy.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout - Copy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:47:03.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\HK2431\\Ph\u00E1t tri\u1EC3n web\\App\\DuongNhiStore\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-26T19:47:13.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

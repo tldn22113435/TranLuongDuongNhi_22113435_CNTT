@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Prolist product";
+}
+@model List<DuongNhiStore.Models.Product>
+@{
+    var categories = ViewBag.Categories as List<DuongNhiStore.Models.Category>; // Retrieve categories from ViewBag
+}
+
+<link rel="stylesheet" href="~/contents/css/style.css" asp-append-version="true" />
+
+<div class="shop-detail-box-main">
+    <div class="container">
+        <div class="row">
+            <!-- Sidebar for Category Filter -->
+            <div class="col-xl-3 col-lg-3 col-sm-12 col-xs-12 sidebar-shop-left">
+                <div class="filter-sidebar-left">
+                    <div class="title-left">
+                        <h3>Categories</h3>
+                    </div>
+                    <ul class="list-group">
+                        @foreach (var category in categories)
+                        {
+                                <li class="list-group-item list-group-item-action">
+                                    <a href="@Url.Action("ListPro", "Product", new { id = category.Id })">
+                                    @category.Name
+                                    </a>
+                                </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Product Listings -->
+            <div class="col-xl-9 col-lg-9 col-sm-12 col-xs-12 shop-content-right">
+                <div class="right-product-box">
+                    <div class="product-item-filter row">
+                        @foreach (var pro in Model)
+                        {
+                                <div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
+                                    <div class="products-single fix">
+                                        <div class="box-img-hover">
+                                        <div class="type-lb">
+                                            @if (pro.Discount > 0)
+                                            {
+                                                <p class="sale">
+                                                    Giảm @((pro.Discount * 100).ToString("0"))%
+                                                </p>
+                                            }
+                                            else
+                                            {
+                                                <p class="sale">New</p>
+                                            }
+                                        </div>
+                                            <img src="~/contents/images/@pro.Image" class="img-fluid" alt="Image">
+                                        </div>
+                                        <div class="why-text">
+                                            <a href="~/Product/Detail/@pro.Id">
+                                                <h4>@pro.Name</h4>
+                                            @if (pro.Discount > 0)
+                                            {
+                                                <h5 style="text-decoration: line-through; color: red;">
+                                                    @(pro.Price?.ToString("n0")) VNĐ
+                                                </h5>
+                                                <h5 style="color: green;">
+                                                    @(pro.DiscountedPrice.ToString("n0")) VNĐ
+                                                </h5>
+                                              
+                                            }
+                                            else
+                                            {
+                                                <h5>@(pro.Price?.ToString("n0")) VNĐ</h5>
+                                            }
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

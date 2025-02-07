@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home_admin"
+        android:icon="@drawable/baseline_home_admin_24"
+        android:title="Trang Chủ" />
+
+    <item
+        android:id="@+id/nav_player_management"
+        android:icon="@drawable/player_management"
+        android:title="Người chơi" />
+
+    <item
+        android:id="@+id/nav_ranking_admin"
+        android:icon="@drawable/top"
+        android:title="Xếp hạng" />
+    <item
+        android:id="@+id/nav_settings_admin"
+        android:icon="@drawable/baseline_settings_suggest_24"
+        android:title="Xếp hạng" />
+
+
+</menu>
